@@ -1,0 +1,95 @@
+\input{commandsFile}
+%Packages for Alloy code listing
+\usepackage{listings}
+\usepackage{color}
+\usepackage{xr}
+\definecolor{alloy-keyword}{rgb}{0.23, 0.23, 0.7}
+\definecolor{alloy-comment}{rgb}{0.18, 0.64, 0.18}
+\definecolor{alloy-string}{rgb}{0.71, 0.18, 0.71}
+
+\begin{document}
+%Custom title page
+\begin{titlepage}
+\centering
+\includegraphics[scale=0.75]{Img/PolimiLogo}
+\par\vspace{6cm}
+{\textcolor{Blue}{\textbf{{\Huge Elk River project}}}}
+\par\vspace{1cm}
+{\textcolor{Blue}{\textbf{{\LARGE Digital Innovation Lab}}}}
+\par\vspace{3cm}
+{\Large\scshape{Luca Costa\par\vspace{0.5cm}Riccardo Facchini\par\vspace{0.5cm}Niccolò Pozzolini\par\vspace{0.5cm}Nikola Vukovic}}
+\par\vfill
+{\large\today}
+\end{titlepage}
+%Deliverable specific information----------------------------------
+\clearpage
+\section*{Deliverable specific information}
+\addcontentsline{toc}{section}{Deliverable specific information}
+\begin{tabular}{ll}
+\hline
+\textbf{Deliverable:} & Project report\\
+\textbf{Title:} & Requirement Analysis and Verification Document \\
+\textbf{Authors:} & Luca Costa - Riccardo Facchini - Niccolò Pozzolini - Nikola Vukovic \\
+\textbf{Version:} & 1.0 \\ 
+\textbf{Date:} & \today \\
+\textbf{Copyright:} & Copyright © 2019, Costa - Facchini - Pozzolini - Vukovic – All rights reserved \\
+\hline
+\end{tabular}
+\setcounter{page}{1}
+
+%Table of contents------------------------------------------------------
+\clearpage
+\tableofcontents
+\addcontentsline{toc}{section}{Table of Contents}
+\clearpage
+\listoffigures
+\addcontentsline{toc}{section}{List of Figures}
+\clearpage
+\listoftables
+\addcontentsline{toc}{section}{List of Tables}
+%INTRODUCTION---------------------------------------------------
+\clearpage
+{\color{Blue}{\section{Introduction}}}
+\label{sect:Introduction}
+\input{Files/Introduction}
+%Overall Description------------------------------------------------
+\clearpage
+{\color{Blue}{\section{Overall Description}}}
+\label{sect:Overal Description}
+\input{Files/OverallDescription}
+%Personas------------------------------------------------
+\clearpage
+{\color{Blue}{\section{Target Group and Personas}}}
+\label{sect:PersonasGroup}
+\input{Files/PersonasGroup}
+%Thinking Hats--------------------------------------------------------------
+\clearpage
+{\color{Blue}{\section{Thinking Hats}}}
+\label{sect:Thinking Hats}
+\input{Files/ThinkingHats}
+%Customer Journey--------------------------------------------------------------
+\clearpage
+{\color{Blue}{\section{Customer Journey}}}
+\label{sect:Customer Journey}
+\input{Files/CustomerJourney}
+%Business Process Model and Notation--------------------------------------------------------------
+\clearpage
+{\color{Blue}{\section{Business Process Model and Notation}}}
+\label{sect:BPMN}
+\input{Files/BPMN}
+%Data Analysis--------------------------------------------------------------
+\clearpage
+{\color{Blue}{\section{Data Analysis}}}
+\label{sect:Data Analysis}
+\input{Files/DataAnalysis}
+%Prototype - Mobile Application--------------------------------------------------------------
+\clearpage
+{\color{Blue}{\section{Prototype - Mobile Application}}}
+\input{Files/PrototypeMobileApplication}
+\label{sect:Prototype - Mobile Application}
+%Appendix-------------------------------------------------------------------
+\clearpage
+{\color{Blue}{\section{Appendix}}}
+\label{sect:Appendix}
+\input{Files/Appendix}
+\end{document}
