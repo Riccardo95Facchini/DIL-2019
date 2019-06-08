@@ -19,16 +19,21 @@
 \BOOKMARK [2][-]{subsection.3.1}{Target Group - Fishing Enthusiasts}{section.3}% 19
 \BOOKMARK [2][-]{subsection.3.2}{Personas}{section.3}% 20
 \BOOKMARK [1][-]{section.4}{Thinking Hats}{}% 21
-\BOOKMARK [2][-]{subsection.4.1}{White - Factual}{section.4}% 22
-\BOOKMARK [2][-]{subsection.4.2}{Red - Emotional}{section.4}% 23
-\BOOKMARK [2][-]{subsection.4.3}{Yellow - Logical}{section.4}% 24
-\BOOKMARK [2][-]{subsection.4.4}{Black - Cautious}{section.4}% 25
-\BOOKMARK [2][-]{subsection.4.5}{Green - Out of the box}{section.4}% 26
-\BOOKMARK [2][-]{subsection.4.6}{Blue - Management}{section.4}% 27
-\BOOKMARK [1][-]{section.5}{Customer Journey}{}% 28
-\BOOKMARK [1][-]{section.6}{Business Process Model and Notation}{}% 29
-\BOOKMARK [1][-]{section.7}{Data Analysis}{}% 30
-\BOOKMARK [1][-]{section.8}{Prototype - Mobile Application}{}% 31
-\BOOKMARK [2][-]{subsection.8.1}{Application Structure}{section.8}% 32
-\BOOKMARK [1][-]{section.9}{Appendix}{}% 33
-\BOOKMARK [1][-]{section.10}{Software \046 Services Used}{}% 34
+\BOOKMARK [1][-]{section.5}{Customer Journey}{}% 22
+\BOOKMARK [1][-]{section.6}{Business Process Model and Notation}{}% 23
+\BOOKMARK [1][-]{section.7}{Data Analysis}{}% 24
+\BOOKMARK [1][-]{section.8}{Prototype - Mobile Application}{}% 25
+\BOOKMARK [2][-]{subsection.8.1}{Structure}{section.8}% 26
+\BOOKMARK [2][-]{subsection.8.2}{Introduction}{section.8}% 27
+\BOOKMARK [3][-]{subsubsection.8.2.1}{Operating System: Android}{subsection.8.2}% 28
+\BOOKMARK [3][-]{subsubsection.8.2.2}{Development Platform: Firebase}{subsection.8.2}% 29
+\BOOKMARK [2][-]{subsection.8.3}{Goals}{section.8}% 30
+\BOOKMARK [2][-]{subsection.8.4}{Database Structure}{section.8}% 31
+\BOOKMARK [2][-]{subsection.8.5}{Cloud Functions}{section.8}% 32
+\BOOKMARK [3][-]{subsubsection.8.5.1}{New Review}{subsection.8.5}% 33
+\BOOKMARK [3][-]{subsubsection.8.5.2}{Send Notification}{subsection.8.5}% 34
+\BOOKMARK [2][-]{subsection.8.6}{User Interface}{section.8}% 35
+\BOOKMARK [3][-]{subsubsection.8.6.1}{Customer UI}{subsection.8.6}% 36
+\BOOKMARK [3][-]{subsubsection.8.6.2}{Employee UI}{subsection.8.6}% 37
+\BOOKMARK [1][-]{section.9}{Appendix}{}% 38
+\BOOKMARK [2][-]{subsection.9.1}{Software \046 Services Used}{section.9}% 39

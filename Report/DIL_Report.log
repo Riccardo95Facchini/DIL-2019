@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.5.29)  29 MAY 2019 09:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.5.29)  8 JUN 2019 19:46
 entering extended mode
 **./DIL_Report.tex
 (DIL_Report.tex
@@ -790,24 +790,28 @@ ions\pgflibrarydecorations.pathmorphing.code.tex))
 \highlight@previous=\dimen258
 \highlight@current=\dimen259
 ) (util/abbrev.tex))
-(C:\Users\Riccardo\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\listings.sty
-\lst@mode=\count145
+(C:\Users\Riccardo\AppData\Roaming\MiKTeX\2.9\tex/latex/caption\subcaption.sty
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+\c@subfigure=\count145
+\c@subtable=\count146
+) (C:\Users\Riccardo\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\listings.sty
+\lst@mode=\count147
 \lst@gtempboxa=\box54
 \lst@token=\toks46
-\lst@length=\count146
+\lst@length=\count148
 \lst@currlwidth=\dimen260
-\lst@column=\count147
-\lst@pos=\count148
+\lst@column=\count149
+\lst@pos=\count150
 \lst@lostspace=\dimen261
 \lst@width=\dimen262
-\lst@newlines=\count149
-\lst@lineno=\count150
+\lst@newlines=\count151
+\lst@lineno=\count152
 \lst@maxwidth=\dimen263
 
 (C:\Users\Riccardo\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
-\c@lstnumber=\count151
-\lst@skipnumbers=\count152
+\c@lstnumber=\count153
+\lst@skipnumbers=\count154
 \lst@framebox=\box55
 )
 (C:\Users\Riccardo\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\listings.cfg
@@ -816,26 +820,34 @@ File: listings.cfg 2019/02/27 1.8b listings configuration
 Package: listings 2019/02/27 1.8b (Carsten Heinz)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\xr.sty"
 Package: xr 2019/01/05 v5.04 eXternal References (DPC)
-) (DIL_Report.aux)
+)
+(C:\Users\Riccardo\AppData\Roaming\MiKTeX\2.9\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen264
+\WF@size=\dimen265
+\c@WF@wrappedlines=\count155
+\WF@box=\box56
+\WF@everypar=\toks47
+Package: wrapfig 2003/01/31  v 3.6
+)
+(DIL_Report.aux)
 \openout1 = `DIL_Report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 10.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 9.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 *geometry* driver: auto-detecting
@@ -876,17 +888,17 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 (C:\Users\Riccardo\AppData\Roaming\MiKTeX\2.9\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count153
-\scratchdimen=\dimen264
-\scratchbox=\box56
-\nofMPsegments=\count154
-\nofMParguments=\count155
-\everyMPshowfont=\toks47
-\MPscratchCnt=\count156
-\MPscratchDim=\dimen265
-\MPnumerator=\count157
-\makeMPintoPDFobject=\count158
-\everyMPtoPDFconversion=\toks48
+\scratchcounter=\count156
+\scratchdimen=\dimen266
+\scratchbox=\box57
+\nofMPsegments=\count157
+\nofMParguments=\count158
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count159
+\MPscratchDim=\dimen267
+\MPnumerator=\count160
+\makeMPintoPDFobject=\count161
+\everyMPtoPDFconversion=\toks49
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -903,9 +915,10 @@ G,.JBIG2,.JB2,.eps]
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
+Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box57
-Package hyperref Info: Link coloring ON on input line 10.
+\AtBeginShipoutBox=\box58
+Package hyperref Info: Link coloring ON on input line 9.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -913,58 +926,58 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count159
+\c@section@level=\count162
 )
-LaTeX Info: Redefining \ref on input line 10.
-LaTeX Info: Redefining \pageref on input line 10.
-LaTeX Info: Redefining \nameref on input line 10.
+LaTeX Info: Redefining \ref on input line 9.
+LaTeX Info: Redefining \pageref on input line 9.
+LaTeX Info: Redefining \nameref on input line 9.
 
 (DIL_Report.out) (DIL_Report.out)
 \@outlinefile=\write4
 \openout4 = `DIL_Report.out'.
 
  ABD: EveryShipout initializing macros
-\c@lstlisting=\count160
-<Img/PolimiLogo.png, id=142, 405.515pt x 125.46875pt>
+\c@lstlisting=\count163
+<Img/PolimiLogo.png, id=162, 405.515pt x 125.46875pt>
 File: Img/PolimiLogo.png Graphic file (type png)
 <use Img/PolimiLogo.png>
-Package pdftex.def Info: Img/PolimiLogo.png  used on input line 14.
+Package pdftex.def Info: Img/PolimiLogo.png  used on input line 13.
 (pdftex.def)             Requested size: 304.13548pt x 94.10132pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 16.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 15.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 16.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 15.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
 
 [1
 
 {C:/Users/Riccardo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Img/Po
 limiLogo.png>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 26.
-LaTeX Font Info:    Try loading font information for U+wasy on input line 28.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 25.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 27.
 
 (C:\Users\Riccardo\AppData\Roaming\MiKTeX\2.9\tex/latex/wasysym\uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 28.
+LaTeX Font Info:    Try loading font information for U+msa on input line 27.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 28.
+LaTeX Font Info:    Try loading font information for U+msb on input line 27.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 35.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 34.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -973,12 +986,12 @@ We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.41 \clearpage
+l.40 \clearpage
                 [1
 
 ] (DIL_Report.toc)
@@ -987,25 +1000,26 @@ l.41 \clearpage
 
  [2
 
-] (DIL_Report.lof)
+] [3] (DIL_Report.lof)
 \tf@lof=\write6
 \openout6 = `DIL_Report.lof'.
 
- [3
+ [4
 
-] (DIL_Report.lot)
+]
+(DIL_Report.lot)
 \tf@lot=\write7
 \openout7 = `DIL_Report.lot'.
 
-
-[4
+ [5
 
 ] (Files/Introduction.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
-) [5
+ [6
 
-] (Files/OverallDescription.tex
+]) [7]
+(Files/OverallDescription.tex
 
 Package xr Warning: 
 No file Files/PrototypeMobileApplication.aux
@@ -1017,50 +1031,215 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-[6
+[8
 
-]) [7] (Files/PersonasGroup.tex) [8
+]) [9] (Files/PersonasGroup.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--11
 
-] (Files/ThinkingHats.tex) [9
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--39
+
+ []
+
+[10
 
 ]
-(Files/CustomerJourney.tex) [10
+<Img/Bob.PNG, id=282, 703.12688pt x 682.80093pt>
+File: Img/Bob.PNG Graphic file (type png)
+<use Img/Bob.PNG>
+Package pdftex.def Info: Img/Bob.PNG  used on input line 41.
+(pdftex.def)             Requested size: 156.49014pt x 151.95659pt.
 
-] (Files/BPMN.tex) [11
+Underfull \hbox (badness 10000) in paragraph at lines 75--83
 
-] (Files/DataAnalysis.tex) [12
+ []
 
-] (Files/PrototypeMobileApplication.tex) [13
+[11 <./Img/Bob.PNG>]
+<Img/Jack.jpg, id=297, 662.475pt x 770.12718pt>
+File: Img/Jack.jpg Graphic file (type jpg)
+<use Img/Jack.jpg>
+Package pdftex.def Info: Img/Jack.jpg  used on input line 85.
+(pdftex.def)             Requested size: 156.49014pt x 181.92pt.
+) [12 <./Img/Jack.jpg>] (Files/ThinkingHats.tex
+<Img/White.png, id=304, 301.125pt x 301.125pt>
+File: Img/White.png Graphic file (type png)
+<use Img/White.png>
+Package pdftex.def Info: Img/White.png  used on input line 4.
+(pdftex.def)             Requested size: 91.04742pt x 91.04579pt.
+<Img/Red.png, id=305, 301.125pt x 301.125pt>
+File: Img/Red.png Graphic file (type png)
+<use Img/Red.png>
+Package pdftex.def Info: Img/Red.png  used on input line 6.
+(pdftex.def)             Requested size: 91.04742pt x 91.04579pt.
+<Img/Yellow.png, id=306, 301.125pt x 301.125pt>
+File: Img/Yellow.png Graphic file (type png)
+<use Img/Yellow.png>
+Package pdftex.def Info: Img/Yellow.png  used on input line 8.
+(pdftex.def)             Requested size: 91.04742pt x 91.04579pt.
+<Img/Black.png, id=307, 301.125pt x 301.125pt>
+File: Img/Black.png Graphic file (type png)
+<use Img/Black.png>
+Package pdftex.def Info: Img/Black.png  used on input line 10.
+(pdftex.def)             Requested size: 91.04742pt x 91.04579pt.
+<Img/Green.png, id=308, 301.125pt x 301.125pt>
+File: Img/Green.png Graphic file (type png)
+<use Img/Green.png>
+Package pdftex.def Info: Img/Green.png  used on input line 12.
+(pdftex.def)             Requested size: 91.04742pt x 91.04579pt.
+<Img/Blue.png, id=309, 301.125pt x 301.125pt>
+File: Img/Blue.png Graphic file (type png)
+<use Img/Blue.png>
+Package pdftex.def Info: Img/Blue.png  used on input line 14.
+(pdftex.def)             Requested size: 91.04742pt x 91.04579pt.
 
-] (Files/Appendix.tex) [14
+Overfull \hbox (25.19997pt too wide) in paragraph at lines 2--17
+ [] 
+ []
+
+) [13
+
+ <./Img/White.png> <./Img/Red.png> <./Img/Yellow.png> <./Img/Black.png> <./Img/
+Green.png> <./Img/Blue.png>] (Files/CustomerJourney.tex
+<Img/Customer_journey_map.png, id=320, 844.95676pt x 539.01375pt>
+File: Img/Customer_journey_map.png Graphic file (type png)
+<use Img/Customer_journey_map.png>
+Package pdftex.def Info: Img/Customer_journey_map.png  used on input line 3.
+(pdftex.def)             Requested size: 455.24411pt x 290.41333pt.
+) [14
+
+ <./Img/Customer_journey_map.png>] [15] (Files/BPMN.tex
+<Img/DiagramNormalUse.jpg, id=330, 772.38562pt x 512.51476pt>
+File: Img/DiagramNormalUse.jpg Graphic file (type jpg)
+<use Img/DiagramNormalUse.jpg>
+Package pdftex.def Info: Img/DiagramNormalUse.jpg  used on input line 3.
+(pdftex.def)             Requested size: 455.24411pt x 302.07608pt.
+<Img/DiagramReview.jpg, id=331, 480.89662pt x 499.8675pt>
+File: Img/DiagramReview.jpg Graphic file (type jpg)
+<use Img/DiagramReview.jpg>
+Package pdftex.def Info: Img/DiagramReview.jpg  used on input line 9.
+(pdftex.def)             Requested size: 455.24411pt x 473.2163pt.
+<Img/DiagramPayment.jpg, id=332, 459.21562pt x 527.571pt>
+File: Img/DiagramPayment.jpg Graphic file (type jpg)
+<use Img/DiagramPayment.jpg>
+Package pdftex.def Info: Img/DiagramPayment.jpg  used on input line 15.
+(pdftex.def)             Requested size: 455.24411pt x 523.03752pt.
+) [16
+
+ <./Img/DiagramNormalUse.jpg>]
+[17 <./Img/DiagramReview.jpg>] [18 <./Img/DiagramPayment.jpg>]
+(Files/DataAnalysis.tex) [19
+
+] (Files/PrototypeMobileApplication.tex
+
+Package xr Warning: 
+No file Files/PersonasGroup.aux
+LABELS NOT IMPORTED.
+ on input line 1.
+
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 8.
+("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmtt.fd"
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [20
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
+Underfull \hbox (badness 10000) in paragraph at lines 38--44
 
-(DIL_Report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 95.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 95.
-Package rerunfilecheck Info: File `DIL_Report.out' has not changed.
-(rerunfilecheck)             Checksum: 3E80672187DEAC6A8BF41BE959021414;2201.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 95.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
+
+ []
+
+[21
+
+] [22] [23
+
+] [24
+
+]
+<Img/CustomerHome.png, id=493, 1084.05pt x 1927.2pt>
+File: Img/CustomerHome.png Graphic file (type png)
+<use Img/CustomerHome.png>
+Package pdftex.def Info: Img/CustomerHome.png  used on input line 195.
+(pdftex.def)             Requested size: 116.18573pt x 206.5691pt.
+<Img/Chat.png, id=494, 1084.05pt x 1927.2pt>
+File: Img/Chat.png Graphic file (type png)
+<use Img/Chat.png>
+Package pdftex.def Info: Img/Chat.png  used on input line 200.
+(pdftex.def)             Requested size: 116.18573pt x 206.5691pt.
+<Img/CustomerSearch.png, id=495, 1084.05pt x 1927.2pt>
+File: Img/CustomerSearch.png Graphic file (type png)
+<use Img/CustomerSearch.png>
+Package pdftex.def Info: Img/CustomerSearch.png  used on input line 206.
+(pdftex.def)             Requested size: 116.18573pt x 206.5691pt.
+<Img/CustomerSearch2.png, id=496, 1084.05pt x 1927.2pt>
+File: Img/CustomerSearch2.png Graphic file (type png)
+<use Img/CustomerSearch2.png>
+Package pdftex.def Info: Img/CustomerSearch2.png  used on input line 211.
+(pdftex.def)             Requested size: 116.18573pt x 206.5691pt.
+ [25
+
+ <./Img/CustomerHome.png> <./Img/Chat.png> <./Img/CustomerSearch.png> <./Img/Cu
+stomerSearch2.png>]
+<Img/EmployeeHome.png, id=507, 1084.05pt x 1927.2pt>
+File: Img/EmployeeHome.png Graphic file (type png)
+<use Img/EmployeeHome.png>
+Package pdftex.def Info: Img/EmployeeHome.png  used on input line 224.
+(pdftex.def)             Requested size: 193.6484pt x 344.27835pt.
+<Img/EmployeeSpot.png, id=508, 1084.05pt x 1927.2pt>
+File: Img/EmployeeSpot.png Graphic file (type png)
+<use Img/EmployeeSpot.png>
+Package pdftex.def Info: Img/EmployeeSpot.png  used on input line 229.
+(pdftex.def)             Requested size: 193.6484pt x 344.27835pt.
+) [26
+
+ <./Img/EmployeeHome.png> <./Img/EmployeeSpot.png>] (Files/Appendix.tex) [27
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
+ (DIL_Report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 94.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 94.
+
+
+Package rerunfilecheck Warning: File `DIL_Report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `DIL_Report.out':
+(rerunfilecheck)             Before: F0FE2BF872FBFE1DF40F4DE19AD59571;2571
+(rerunfilecheck)             After:  0E473204F5DE4FCADCF98335CB90B2E4;2584.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 94.
  ) 
 Here is how much of TeX's memory you used:
- 21658 strings out of 492895
- 399057 string characters out of 3133470
- 476801 words of memory out of 3000000
- 25050 multiletter control sequences out of 15000+200000
- 46390 words of font info for 63 fonts, out of 3000000 for 9000
+ 22351 strings out of 492895
+ 407725 string characters out of 3133470
+ 497732 words of memory out of 3000000
+ 25556 multiletter control sequences out of 15000+200000
+ 53693 words of font info for 78 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,15n,65p,438b,360s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
-times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb
->
-Output written on DIL_Report.pdf (15 pages, 100794 bytes).
+ 59i,16n,65p,1071b,1758s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{section.10} has been referenced but does not exis
+t, replaced by a fixed one
+
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiK
+TeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/
+lmtt9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on DIL_Report.pdf (28 pages, 7266973 bytes).
 PDF statistics:
- 292 PDF objects out of 1000 (max. 8388607)
- 65 named destinations out of 1000 (max. 500000)
- 290 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 588 PDF objects out of 1000 (max. 8388607)
+ 212 named destinations out of 1000 (max. 500000)
+ 420 words of extra memory for PDF output out of 10000 (max. 10000000)
 
