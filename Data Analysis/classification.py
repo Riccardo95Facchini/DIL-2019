@@ -1,15 +1,12 @@
-from google.colab import drive 
-drive.mount('/content/gdrive')
-
 import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.metrics import classification_report
 
-#THE DATASET IS RETRIEVED FROM DRIVE, IT CAN ALSO BE DOWNLOADED FROM UCI AND LOADED LOCALLY
+#EVERY TIME THE DATASET IS RETRIEVED FROM GITHUB
 
-input_file = "/content/gdrive/My Drive/Colab Notebooks/bank-full.csv"
+input_file = 'https://raw.githubusercontent.com/lcphy/Digital-Innovation-Lab/master/bank-full.csv'
 dataset = pd.read_csv(input_file, sep=';', header = 0)
 
 dataset.head()

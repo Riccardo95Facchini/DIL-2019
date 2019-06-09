@@ -1,8 +1,3 @@
-#DRIVE CONNECTION
-
-from google.colab import drive 
-drive.mount('/content/gdrive')
-
 #CLUSTERING
 
 import numpy as np
@@ -17,9 +12,7 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.model_selection import train_test_split
 import seaborn as sns
 
-#THE DATASET IS RETRIEVED FROM DRIVE, IT CAN ALSO BE DOWNLOADED FROM UCI AND LOADED LOCALLY
-
-input_file = "/content/gdrive/My Drive/Colab Notebooks/total_reviews.csv"
+input_file = 'https://raw.githubusercontent.com/lcphy/Digital-Innovation-Lab/master/total_reviews.csv'
 df = pd.read_csv(input_file, sep=';', header = 0)
 
 df = df[['User Id', 'Religious', 'Sports','Theatre', 'Picnic', 'Nature','Shopping']]
