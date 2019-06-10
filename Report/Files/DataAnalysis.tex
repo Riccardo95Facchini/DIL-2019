@@ -19,7 +19,7 @@ In order to do that we used a Clustering analysis and a particular dataset from 
 \begin{figure}[H]
 \centering
 \includegraphics[width=1\textwidth]{Img/Review_dataset.png}
-\caption{Review dataset activities}
+\caption{Review Dataset}
 \end{figure}
 
 \clearpage
@@ -30,14 +30,14 @@ In order to perform the clustering analysis we chose to set the number of cluste
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.6\textwidth]{Img/2_elbow.png}
-\caption{Nature-Picnic Elbow method graph}
+\caption{Nature-Picnic Elbow method}
 \end{figure}
 
 \begin{figure}[H]
 \centering
 \hspace{-1cm}
 \includegraphics[width=0.8\textwidth]{Img/2_cluster.png}
-	\caption{Nature-Picnic clustering}
+	\caption{Nature-Picnic Clustering}
 \end{figure}
 \noindent From the plot is clear that people did more picnics than nature activities, as the points are totally growing to the right. Recommending picnics on the app to natural people maybe would be a waste of time.
 \clearpage
@@ -46,7 +46,7 @@ In order to perform the clustering analysis we chose to set the number of cluste
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.7\textwidth]{Img/3_elbow.png}
-\caption{Shopping-Nature Elbow method graph}
+\caption{Shopping-Nature Elbow method}
 \end{figure}
 \begin{figure}[H]
 \centering
@@ -64,7 +64,7 @@ In the end we realized that a clustering analysis was too much to be applied to 
 \begin{figure}[H]
 \centering
 \includegraphics[width=1\textwidth]{Img/correlation_review.png}
-\caption{Correlation matrix of the reviews}
+\caption{Reviews Correlation Matrix}
 \end{figure}
 
 \noindent This type of plot let us understand if features are actually correlated or not. As seen in the clustering analysis, we have a 0.52 between nature and picnic, while shopping and nature are absolutely not linked at all (-0.19).\\
@@ -92,7 +92,7 @@ In order to do that we used a Classification analysis and a particular dataset f
 \begin{figure}[H]
 \centering
 \includegraphics[width=1\textwidth]{Img/bank_dataset.png}
-\caption{Customer dataset}
+\caption{Marketing Campaign Dataset}
 \end{figure}
 
 \clearpage
@@ -101,7 +101,7 @@ Dealing with the second dataset required more data cleaning and engineering. Fir
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.8\textwidth]{Img/feature_recap.png}
-\caption{Feature Engineering recap}
+\caption{Feature Engineering Strategy}
 \end{figure}
 
 \begin{itemize}[noitemsep]
@@ -121,7 +121,7 @@ Dealing with the second dataset required more data cleaning and engineering. Fir
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.6\textwidth]{Img/dummy.png}
-\caption{Dummy encode}
+\caption{Dummy Variables}
 \end{figure}
 \end{itemize}
 
@@ -130,7 +130,7 @@ Before any kind of analysis, we tried to understand feature correlation, in orde
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.6\textwidth]{Img/correlation_bank.png}
-\caption{Correlation matrix of bank dataset}
+\caption{Marketing Campaign Correlation Matrix}
 \end{figure}
 \vspace{-1cm}
 \subsubsection{Metrics}
@@ -140,7 +140,7 @@ This event brought us to rethink our metrics and overall every consideration we 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.7\textwidth]{Img/imbalanced.png}
-\caption{Imbalanced metrics}
+\caption{Target Plot}
 \end{figure}
 \clearpage
 \subsubsection{Models}
@@ -153,14 +153,14 @@ The second best way to solve a machine learning problem in general is to try sev
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.7\textwidth]{Img/normal_tree.png}
-\caption{Decision tree}
+\caption{Basic DT Score}
 \end{figure}
 \item \textbf{Random Forest Classifier}: as a generalization of decision tree, RF should have been performing better. On the contrary, during the process it had a different behavior. We'll discuss more about that after more analysis.
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.7\textwidth]{Img/normal_forest.png}
-\caption{Random forest}
+\caption{Basic RF Score}
 \end{figure}
 
 \item \textbf{K-NN}: Besides others, the third best one was the K-NN. We decided to put it into the documentation to proof the fact we considered also other kind of models, even if the result was worse.
@@ -168,7 +168,7 @@ The second best way to solve a machine learning problem in general is to try sev
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.7\textwidth]{Img/normal_knn.png}
-\caption{K-NN}
+\caption{Basic K-NN Score}
 \end{figure}
 \end{itemize}
 
@@ -185,14 +185,14 @@ The selection was performed completely randomly. The only drawback was that we w
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.7\textwidth]{Img/under_tree.png}
-\caption{Under-Sampled decision tree}
+\caption{Under-Sampled DT Score}
 \end{figure}
 \item \textbf{Random Forest Classifier}: the greatest improvement, however, was performed by RF as from a very low 0.18 it reached 0.61 (lower than DT, but still very similar).
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.7\textwidth]{Img/under_forest.png}
-\caption{Under-Sampled random forest}
+\caption{Under-Sampled RF Score}
 \end{figure}
 \end{itemize}
 
@@ -208,14 +208,14 @@ In order to reach a complete overview of our analysis, we decided to apply anoth
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.7\textwidth]{Img/smote_tree.png}
-\caption{SMOTE decision tree}
+\caption{SMOTE DT Score}
 \end{figure}
 \item \textbf{Random Forest Classifier}: 
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.7\textwidth]{Img/smote_forest.png}
-\caption{SMOTE random forest}
+\caption{SMOTE RF Score}
 \end{figure}
 \end{itemize}
 
@@ -231,14 +231,14 @@ The most challenging one has been the last analysis as we had to deal with an im
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.6\textwidth]{Img/recall_recap.png}
-\caption{Recall recap}
+\caption{Recall Recap}
 \end{figure}
 \item \textbf{F1 score}: 
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.6\textwidth]{Img/recap_f1.png}
-\caption{F1 score recap}
+\caption{F1-score Recap}
 \end{figure}
 \end{itemize}
 
