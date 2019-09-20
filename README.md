@@ -33,7 +33,7 @@ Specific informations about all the projects aspects are available in detail in 
 <!-- CONTACT -->
 ## Contact
 
-Riccardo Facchini - [LinkedIn](https://www.linkedin.com/in/riccardo-facchini-1a8206194/) - [E-mail](riccardo95facchini@gmail.com)
+Riccardo Facchini - [LinkedIn](https://www.linkedin.com/in/riccardo-facchini-1a8206194/) - riccardo95facchini@gmail.com
 
 
 <!-- CONTRIBUTORS -->
